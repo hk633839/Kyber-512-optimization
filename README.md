@@ -3,6 +3,7 @@
 This project aims at reducing the area and latency of the Kyber 512 cryptographic algorithm.
 
 The main optimizations performed in this are:
+
 -> Bottle Neck Identification
 
 -> Pipelining
