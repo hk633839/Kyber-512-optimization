@@ -12,5 +12,6 @@ The main optimizations performed in this are:
 
 -> Memory Optimization
 
+The target FPGA board used is Artix 7 xc7a200tfbg676-2
 
 This has been done using Vivado Hls 2019.
